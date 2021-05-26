@@ -20,7 +20,7 @@ export function About(){
                 <button>Contact Us</button>
             </div>
             <div className="image">
-                <img src={home1} alt="home image" />
+                <img src={home1} alt="home about" />
             </div>
         </div>
     )
